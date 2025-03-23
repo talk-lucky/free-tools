@@ -6,6 +6,10 @@
 - [Bylo.ai](https://bylo.ai/zh-CN) 每次2张
 - [Stable Diffusion](https://stablediffusionweb.com/zh-cn) 每天10次绘画，每次2张。
 
+### AI编程
+
+- [Lovable](https://lovable.dev/) Lovable
+
 ## 图画
 
 - [Crop Image](https://cropimage.me/) 免费的在线图片切割
