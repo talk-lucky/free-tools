@@ -12,4 +12,4 @@
 
 ## 其他
 
-- [FastSend](https://fastsend.ing/zh) `[Github](https://github.com/ShouChenICU/FastSend)` WebRTC点对点传输
+- [FastSend](https://fastsend.ing/zh) [`Github`](https://github.com/ShouChenICU/FastSend) WebRTC点对点传输
