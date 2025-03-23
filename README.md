@@ -9,3 +9,7 @@
 ## 图画
 
 - [Crop Image](https://cropimage.me/) 免费的在线图片切割
+
+## 其他
+
+- [FastSend](https://fastsend.ing/zh) `[Github](https://github.com/ShouChenICU/FastSend)` WebRTC点对点传输
