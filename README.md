@@ -8,7 +8,7 @@
 
 ### AI编程
 
-- [Lovable](https://lovable.dev/) Lovable
+- [Lovable](https://lovable.dev/) [`Github`](https://github.com/AntonOsika/gpt-engineer) Lovable
 
 ## 图画
 
