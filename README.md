@@ -2,6 +2,7 @@
 
 - [Stirling-PDF](https://pdf.tplant.com.au/) [`Github`](https://github.com/Stirling-Tools/Stirling-PDF) 本地托管的Web应用程序，允许您对PDF文件执行各种操作
 - [cobalt](https://cobalt.tools/) Youtube视频下载
+- [分离人声](https://vocalremover.org/zh/) 音频处理
 
 ## AI
 
