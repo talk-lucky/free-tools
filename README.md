@@ -20,6 +20,7 @@
 ## 图画
 
 - [Crop Image](https://cropimage.me/) 免费的在线图片切割
+- [稿定设计](https://www.gaoding.com/editor/ps#/) 在线PhotoShop
 
 ## WebRTC
 
