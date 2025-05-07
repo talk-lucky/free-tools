@@ -17,6 +17,10 @@
 
 - [Lovable](https://lovable.dev/) [`Github`](https://github.com/AntonOsika/gpt-engineer) Lovable
 
+### AI语音
+
+- [在线免费文字转语音](https://ai-speaker.net/zh)
+
 ## 图画
 
 - [Crop Image](https://cropimage.me/) 免费的在线图片切割
