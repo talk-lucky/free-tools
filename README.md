@@ -25,6 +25,10 @@
 
 - [在线免费文字转语音](https://ai-speaker.net/zh)
 
+### 资源
+
+- [Midjourney Sref Codes Library](https://mjsrefcode.com/) AI设计创新：终极中途SREF代码指南
+
 ## 图画
 
 - [Crop Image](https://cropimage.me/) 免费的在线图片切割
