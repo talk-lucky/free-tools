@@ -16,6 +16,13 @@
 
 ## AI
 
+### 导航
+
+- [AI工具集](https://ai-bot.cn)
+- [老北鼻AI导航](https://lbbai.com/)
+- [AIGC工具导航](https://www.aigc.cn)
+- [toolify.ai](https://www.toolify.ai/zh/)
+
 ### AI免费绘画
 
 - [Raphael AI](https://raphael.app/zh) 无限
